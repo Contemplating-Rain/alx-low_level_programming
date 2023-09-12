@@ -24,5 +24,3 @@ int print_last_digit(int n)
 	return (l);
 	}
 }
-
-//Find the modulo. The remainder is then analzyed and either made negative and added or just plain added to the ASCII of 0

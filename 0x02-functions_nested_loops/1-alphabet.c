@@ -16,5 +16,3 @@ void print_alphabet(void)
 		}
 		_putchar('\n');
 }
-
-//97 to 123 are from the ASCII number designation. Don't forget

@@ -27,5 +27,3 @@ int print_sign(int n)
 		}
 		_putchar('\n');
 }
-
-//The (-), (+) and (0) are printed out using their ASCII designation, hence the numbers in _putchar
